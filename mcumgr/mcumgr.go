@@ -26,10 +26,10 @@ import (
 	"syscall"
 
 	"mynewt.apache.org/newt/util"
-	"github.com/AudioStreamingPlatform/mynewt-newtmgr/newtmgr/cli"
-	"github.com/AudioStreamingPlatform/mynewt-newtmgr/newtmgr/config"
-	"github.com/AudioStreamingPlatform/mynewt-newtmgr/newtmgr/nmutil"
-	"github.com/AudioStreamingPlatform/mynewt-newtmgr/nmxact/nmserial"
+	"mynewt.apache.org/newtmgr/newtmgr/cli"
+	"mynewt.apache.org/newtmgr/newtmgr/config"
+	"mynewt.apache.org/newtmgr/newtmgr/nmutil"
+	"mynewt.apache.org/newtmgr/nmxact/nmserial"
 )
 
 func stopXport() {

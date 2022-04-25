@@ -1,5 +1,7 @@
 github.com/AudioStreamingPlatform/mynewt-newtmgr v0.0.0-20220425103814-e61a4fcd00df h1:fdraSeZCQYnVQSi8KQWiwEXp72DJwsIBXrnjkOL0DGg=
 github.com/AudioStreamingPlatform/mynewt-newtmgr v0.0.0-20220425103814-e61a4fcd00df/go.mod h1:IC8U4zm2vqtS/W50kZ09zpWY25coBNwwn5TkKVkdX9E=
+github.com/AudioStreamingPlatform/mynewt-newtmgr v0.0.0-20220425154105-9b3e15a98689 h1:qTgjRZJbU8qQIiVVNYV2WgcuAOnN6tztCixZdThU8mQ=
+github.com/AudioStreamingPlatform/mynewt-newtmgr v0.0.0-20220425154105-9b3e15a98689/go.mod h1:IC8U4zm2vqtS/W50kZ09zpWY25coBNwwn5TkKVkdX9E=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/JuulLabs-OSS/ble v0.0.0-20200716215611-d4fcc9d598bb h1:kIZ7fr8RxucJXNHifPxm71yiWuzpw0SmjlafMzoOd0U=
 github.com/JuulLabs-OSS/ble v0.0.0-20200716215611-d4fcc9d598bb/go.mod h1:6deIuswYSv6W1l3sM/nonw0OKWtIZCn7ZOWvIREoq2A=
@@ -137,6 +139,6 @@ gopkg.in/yaml.v2 v2.2.4/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
 mynewt.apache.org/newt v0.0.0-20200409145402-c5d1e422bfa3/go.mod h1:GTc1Q2t1eVSWNtTWGLyZW8UeRM81SQnq3urDorrJ6AA=
 mynewt.apache.org/newt v0.0.0-20201028015609-b57111dbd19f h1:ZZM0GfqgTGAtTWiBk/Xo0ePsBnbEDb5F1iKDII3OWDw=
 mynewt.apache.org/newt v0.0.0-20201028015609-b57111dbd19f/go.mod h1:0HULbbiMWkyIHsKyv3KozsdVzCZyK2lY9sjeexub4ac=
-mynewt.apache.org/newtmgr v0.0.0-20220422120641-c3cc444a2784 h1:G8hytbhQEK1dCQp8nBTQ/gcCOvR5bdelyaU+nWnqr9Q=
-mynewt.apache.org/newtmgr v0.0.0-20220422120641-c3cc444a2784/go.mod h1:qUNQJ6Jz87jAtOZzPWlKMK7WX/o7baHr8ubtcSwvSTc=
+mynewt.apache.org/newtmgr v0.0.0-20201028150837-60b2da78788c h1:6361yI7aHLT2VPKYdNjZ2EqDm3PgQiupOUGwgGGqRrw=
+mynewt.apache.org/newtmgr v0.0.0-20201028150837-60b2da78788c/go.mod h1:qUNQJ6Jz87jAtOZzPWlKMK7WX/o7baHr8ubtcSwvSTc=
 rsc.io/pdf v0.1.1/go.mod h1:n8OzWcQ6Sp37PL01nO98y4iUCRdTGarVfzxY20ICaU4=
